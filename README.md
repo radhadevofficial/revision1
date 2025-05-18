@@ -122,6 +122,16 @@ lsblk        # Show block devices and mount points
 **A:**
 Runlevels define what system services are running.
 
+0 – Halt (Shutdown)
+
+1 – Single-user mode
+
+3 – Multi-user with networking (No GUI)
+
+5 – Multi-user with GUI
+
+6 – Reboot
+
 * **Runlevel 3**: Multi-user, command line only
 * **Runlevel 5**: Multi-user with GUI
 
