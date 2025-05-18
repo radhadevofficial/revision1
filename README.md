@@ -657,7 +657,6 @@ smartctl -a /dev/sda
 ```
 
 ---
----
 
 ## 🔹 Area 3: AD, DNS, DHCP & GPO
 
